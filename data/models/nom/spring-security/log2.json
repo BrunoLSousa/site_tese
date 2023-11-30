@@ -1,0 +1,15 @@
+{
+ "coeffs": {
+ "const": 1.821197,
+"lin": -0.002969424,
+"quad": 6.988857e-06,
+"AR1": 1.164721,
+"AR2": -0.1863931 
+},
+"type": "log2",
+"AR_level":        2,
+"r_square": 0.9952431,
+"standard_error": 0.006161593,
+"number_parameters": 5,
+"intervention_values": [ 48, 84, 111, 223, 323 ] 
+}

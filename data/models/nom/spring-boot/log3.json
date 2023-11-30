@@ -1,0 +1,23 @@
+{
+ "coeffs": {
+ "const": 1.186687,
+"lin": 0.002762507,
+"quad": -2.302741e-05,
+"cub": 7.789282e-08,
+"interv1": -0.1593101,
+"AR1": 0.6475181,
+"AR2": 0.1862608 
+},
+"type": "log3",
+"AR_level":        2,
+"r_square": 0.9757593,
+"standard_error": 0.00639325,
+"intervention_data": [
+ {
+ "point": 56,
+"type": "pulse" 
+} 
+],
+"number_parameters": 7,
+"intervention_values": [ 56, 100, 145 ] 
+}

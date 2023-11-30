@@ -1,0 +1,21 @@
+{
+ "coeffs": {
+ "const": 7.646984,
+"lin": 0.005035791,
+"quad": -0.0001174142,
+"cub": 1.666524e-06,
+"interv1": -0.06477819 
+},
+"type": "cubic",
+"AR_level":        1,
+"r_square": 0.9473599,
+"standard_error": 0.018269,
+"intervention_data": [
+ {
+ "point": 54,
+"type": "pulse" 
+} 
+],
+"number_parameters": 6,
+"intervention_values": [ 54, 66 ] 
+}

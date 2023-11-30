@@ -1,0 +1,19 @@
+{
+ "coeffs": {
+ "const": 2.292752,
+"lin": 0.004984058,
+"interv1": 0.8210152 
+},
+"type": "linear",
+"AR_level":        0,
+"r_square": 0.9138432,
+"standard_error": 0.1330561,
+"intervention_data": [
+ {
+ "point": 15,
+"type": "step" 
+} 
+],
+"number_parameters": 3,
+"intervention_values": [ 15, 48 ] 
+}

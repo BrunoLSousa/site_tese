@@ -1,0 +1,38 @@
+{
+ "coeffs": {
+ "const": 1.717814,
+"lin": 0.0005523196,
+"quad": -5.005092e-06,
+"cub": 1.061642e-08,
+"interv1": 0.1863054,
+"interv2": 0.08957222,
+"interv3": -0.03430001,
+"interv4": 0.2979719,
+"AR1": 0.3653677,
+"AR2": 0.1345094 
+},
+"type": "cubic",
+"AR_level":        2,
+"r_square": 0.965738,
+"standard_error": 0.02665035,
+"intervention_data": [
+ {
+ "point": 17,
+"type": "step" 
+},
+{
+ "point": 85,
+"type": "step" 
+},
+{
+ "point": 163,
+"type": "step" 
+},
+{
+ "point": 285,
+"type": "step" 
+} 
+],
+"number_parameters": 10,
+"intervention_values": [ 17, 85, 163, 176, 285, 356 ] 
+}

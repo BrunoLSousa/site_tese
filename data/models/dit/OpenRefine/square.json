@@ -1,0 +1,27 @@
+{
+ "coeffs": {
+ "const": 1.593538,
+"lin": -0.0006552018,
+"quad": 2.135503e-06,
+"interv1": -0.02041261,
+"interv2": 0.1681707,
+"AR1": 1.362472,
+"AR2": -0.4033966 
+},
+"type": "square",
+"AR_level":        2,
+"r_square": 0.9533012,
+"standard_error": 0.008897959,
+"intervention_data": [
+ {
+ "point": 99,
+"type": "step" 
+},
+{
+ "point": 194,
+"type": "pulse" 
+} 
+],
+"number_parameters": 7,
+"intervention_values": [ 34, 52, 54, 66, 77, 99, 120, 128, 151, 164, 172, 194, 201, 204 ] 
+}

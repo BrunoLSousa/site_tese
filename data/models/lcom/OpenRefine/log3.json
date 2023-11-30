@@ -1,0 +1,23 @@
+{
+ "coeffs": {
+ "const": -1.458996,
+"lin": 0.0008511448,
+"quad": -1.618403e-05,
+"cub": 6.728763e-08,
+"interv1": -0.02544774,
+"AR1": 0.8801774,
+"AR2": -0.1434367 
+},
+"type": "log3",
+"AR_level":        2,
+"r_square": 0.6851809,
+"standard_error": 0.01722135,
+"intervention_data": [
+ {
+ "point": 150,
+"type": "step" 
+} 
+],
+"number_parameters": 7,
+"intervention_values": [ 58, 67, 79, 98, 112, 129, 150, 164, 171, 204 ] 
+}

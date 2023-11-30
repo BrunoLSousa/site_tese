@@ -1,0 +1,12 @@
+{
+ "coeffs": {
+ "const": 4.668861,
+"lin": -0.0006576506 
+},
+"type": "linear",
+"AR_level":        1,
+"r_square": 0.9307044,
+"standard_error": 0.06014962,
+"number_parameters": 3,
+"intervention_values": [ 50, 127, 160, 208, 250, 257, 328 ] 
+}
